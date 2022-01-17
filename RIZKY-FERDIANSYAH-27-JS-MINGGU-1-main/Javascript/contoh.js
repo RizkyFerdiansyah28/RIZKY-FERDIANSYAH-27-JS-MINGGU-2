@@ -1,0 +1,3 @@
+alert("BELAJAR JAVASCRIPT");
+
+document.querySelector("h1").innerHTML="SAYA BELAJAR JAVASCRIPT DI SMKN2 BUDURAN";
